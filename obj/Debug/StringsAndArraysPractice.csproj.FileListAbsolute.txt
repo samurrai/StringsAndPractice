@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\StringsAndArraysPractice\StringsAndArraysPractice\bin\Debug\StringsAndArraysPractice.exe.config
+C:\Users\User\source\repos\StringsAndArraysPractice\StringsAndArraysPractice\bin\Debug\StringsAndArraysPractice.exe
+C:\Users\User\source\repos\StringsAndArraysPractice\StringsAndArraysPractice\bin\Debug\StringsAndArraysPractice.pdb
+C:\Users\User\source\repos\StringsAndArraysPractice\StringsAndArraysPractice\obj\Debug\StringsAndArraysPractice.csprojAssemblyReference.cache
+C:\Users\User\source\repos\StringsAndArraysPractice\StringsAndArraysPractice\obj\Debug\StringsAndArraysPractice.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\StringsAndArraysPractice\StringsAndArraysPractice\obj\Debug\StringsAndArraysPractice.exe
+C:\Users\User\source\repos\StringsAndArraysPractice\StringsAndArraysPractice\obj\Debug\StringsAndArraysPractice.pdb
